@@ -6,7 +6,7 @@ export default function Person(prop)
     const {name , age} = prop;
     const kids = JSON.stringify(prop);
     const stylelong = {
-        color: "red",
+        color: "yellow",
         fontSize: "40px"
     }
     const styleshort = {
