@@ -1,4 +1,4 @@
-// Shimrit m
+// Shimrit mabrook 
 import React from 'react';
 
 export default function Person(prop)
